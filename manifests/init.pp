@@ -3,4 +3,5 @@ class test {
 		ensure => 'present',
 	}
 }
+GCP
 
